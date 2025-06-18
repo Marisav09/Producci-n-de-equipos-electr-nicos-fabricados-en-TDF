@@ -80,4 +80,13 @@ sino también optimizar el uso de los recursos disponibles.
 ├── LICENSE
 ├── README.md
 └── requirements.txt
+
 ```
+## Enlace al Video Explicativo: 
+https://drive.google.com/file/d/11ZukycR2jUe4dfATPr88C4bJDQ9DouYw/view?usp=sharing
+
+
+
+
+
+Fin...

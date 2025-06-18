@@ -1,4 +1,7 @@
-# Produccion-de-equipos-electronicos-fabricados-en-TDF
+# Proyecto: Produccion de equipos electronicos fabricados en TDF
+ Alumna: Velasquez Marisa
+ 
+   ![LOGO TDF](https://github.com/user-attachments/assets/7ba3cbcb-a8f0-488d-952f-ad966a5227da)
 
 ## Descripción:
 
@@ -49,3 +52,32 @@ Esta capacidad de anticipación brindará a las fábricas una ventaja competitiv
 significativa, ya que les permitirá no solo preveer la demanda de sus productos,
 sino también optimizar el uso de los recursos disponibles.
 
+## Estructura del proyecto
+
+
+                   
+```
+├── data/                                
+│   ├── raw/                  # Datos originales sin procesar
+│   ├── processed/            # Datos listos para entrenar
+│   └── interim/              # Datos intermedios
+│
+├── docs/                     # Documentación del proyecto
+│   └── dataset_description.md
+│
+├── models/                   # Modelos entrenados y serializados
+│
+├── notebooks/                # Jupyter notebooks para análisis exploratorio, entrenamiento y pruebas
+│    
+│
+├── references/               # Artículos, papers, papers técnicos o benchmarks
+│
+├── reports/                  # Reporte final generado
+│   ├── figures/              # Gráficos 
+│   └── Análisis de Resultados          # Reportes de evaluación del modelo
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
